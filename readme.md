@@ -3,7 +3,7 @@ Links are functional
 styles are complete
 form does not work (front end only)
 Customized favicon with external resouce, not part of the project.
-https://duckarroyo.github.io/Run-buddy/
+https://duckarroyo.github.io/Run-Buddy-2.0/
 
 # Run Buddy
 
@@ -15,7 +15,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://duckarroyo.github.io/Run-buddy/
+https://duckarroyo.github.io/Run-Buddy-2.0/
 
 ## Contribution
 Made with ❤️ by Duck Arroyo
