@@ -323,7 +323,7 @@ justify-content: space-around;
 .contact-info p, .contact-info address {
   margin: 20px 0;
   line-height: 1.5;
-  font-size: 20px;
+  font-size: 16px;
   font-style: normal;
 }
 
@@ -364,5 +364,9 @@ justify-content: space-around;
 }
 
 .flex-flow {
+  display: flex;
+}
+
+.flex-row {
   display: flex;
 }
